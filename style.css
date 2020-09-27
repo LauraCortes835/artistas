@@ -1,0 +1,20 @@
+
+body{
+    background: url(img/1.gif);
+background-size: 90rem;
+text-align: center;
+}
+table{
+    margin:0 auto;
+    text-align: left;
+    color: rgba(178, 231, 224, 0.815);
+}
+nav{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+  
+    margin:0 auto;
+    width: 800px;
+    height: auto;
+
+}
